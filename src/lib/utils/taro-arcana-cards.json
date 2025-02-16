@@ -1,0 +1,92 @@
+{
+  "major_arcana": [
+    {
+      "id": 1,
+      "title": "O Mago"
+    },
+    {
+      "id": 2,
+      "title": "A Sacerdotisa"
+    },
+    {
+      "id": 3,
+      "title": "A Imperatriz"
+    },
+    {
+      "id": 4,
+      "title": "O Imperador"
+    },
+    {
+      "id": 5,
+      "title": "O Hierofante"
+    },
+    {
+      "id": 6,
+      "title": "Os Enamorados"
+    },
+    {
+      "id": 7,
+      "title": "O Carro"
+    },
+    {
+      "id": 8,
+      "title": "A Força"
+    },
+    {
+      "id": 9,
+      "title": "O Eremita"
+    },
+    {
+      "id": 10,
+      "title": "A Roda da Fortuna"
+    },
+    {
+      "id": 11,
+      "title": "A Justiça"
+    },
+    {
+      "id": 12,
+      "title": "O Enforcado"
+    },
+    {
+      "id": 13,
+      "title": "A Morte"
+    },
+    {
+      "id": 14,
+      "title": "A Temperança"
+    },
+    {
+      "id": 15,
+      "title": "O Diabo"
+    },
+    {
+      "id": 16,
+      "title": "A Torre"
+    },
+    {
+      "id": 17,
+      "title": "A Estrela"
+    },
+    {
+      "id": 18,
+      "title": "A Lua"
+    },
+    {
+      "id": 19,
+      "title": "O Sol"
+    },
+    {
+      "id": 20,
+      "title": "O Julgamento"
+    },
+    {
+      "id": 21,
+      "title": "O Mundo"
+    },
+    {
+      "id": 22,
+      "title": "O Louco"
+    }
+  ]
+}
