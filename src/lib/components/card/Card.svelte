@@ -1,26 +1,19 @@
-<script lang="ts" >
-  import BackCard from "./elements/Back.svelte";
-  import FrontCard from "./elements/Front.svelte";
+<script lang="ts">
+	import BackCard from './elements/Back.svelte';
+	import FrontCard from './elements/Front.svelte';
 
-  interface IProps {
-    id?: number;
-    showBackCard?: boolean;
-  }
+	interface IProps {
+		id?: number;
+		showBackCard?: boolean;
+	}
 
-  let {id= 1, showBackCard}: IProps = $props()
+	let { id = 1, showBackCard }: IProps = $props();
 
-  const idToCard = id > 22 ? 1 : id;
+	const idToCard = id > 22 ? 1 : id;
 </script>
 
-{#if showBackCard }
-<div class="p-2 md:p-4 h-screen" >
-  <BackCard />
-</div>
-
+{#if showBackCard}
+	<BackCard />
 {:else}
-<div class="p-2 md:p-4 h-screen" >
-  <FrontCard id={idToCard}/>
-</div>
-
+	<FrontCard id={idToCard} />
 {/if}
-

@@ -1,1 +1,8 @@
-@import 'tailwindcss'
+@import 'tailwindcss';
+
+@theme {
+  --color-tarot-blue:  #87CEEB;
+  --color-tarot-white:  #F5F5F5;
+  --color-tarot-yellow:  #FFD700;
+  --color-tarot-black:  #2C2C2C;
+}
