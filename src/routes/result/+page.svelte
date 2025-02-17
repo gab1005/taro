@@ -8,8 +8,8 @@
 
 </script>
 
-<main class="bg-tarot-white h-screen overflow-y-visible">
-	<div class="flex md:flex-row flex-col md:justify-evenly items-center gap-1 md:gap-2 p-2">
+<main class="bg-tarot-black h-screen overflow-y-auto">
+	<div class="flex md:flex-row flex-col md:justify-evenly items-center gap-1 md:gap-2 p-2 h-full">
 		<BigCard numberOfCard={num1} />
 		<BigCard numberOfCard={num2} />
 		<BigCard numberOfCard={num3} />

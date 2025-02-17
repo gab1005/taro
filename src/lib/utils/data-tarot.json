@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/1.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/2.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -50,7 +50,7 @@
   {
     "id": 3,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/3.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -74,7 +74,7 @@
   {
     "id": 4,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/4.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -98,7 +98,7 @@
   {
     "id": 5,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/5.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -122,7 +122,7 @@
   {
     "id": 6,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/6.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -146,7 +146,7 @@
   {
     "id": 7,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/7.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -170,7 +170,7 @@
   {
     "id": 8,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/8.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -194,7 +194,7 @@
   {
     "id": 9,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/9.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -218,7 +218,7 @@
   {
     "id": 10,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/10.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -242,7 +242,7 @@
   {
     "id": 11,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/11.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -266,7 +266,7 @@
   {
     "id": 12,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/12.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -290,7 +290,7 @@
   {
     "id": 13,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/13.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -314,7 +314,7 @@
   {
     "id": 14,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/14.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -338,7 +338,7 @@
   {
     "id": 15,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/15.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -362,7 +362,7 @@
   {
     "id": 16,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/16.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -386,7 +386,7 @@
   {
     "id": 17,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/17.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -410,7 +410,7 @@
   {
     "id": 18,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/18.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -434,7 +434,7 @@
   {
     "id": 19,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/19.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -458,7 +458,7 @@
   {
     "id": 20,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/20.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -482,7 +482,7 @@
   {
     "id": 21,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/21.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
@@ -506,7 +506,7 @@
   {
     "id": 22,
     "image": {
-      "basic-image": "",
+      "basic-image": "/tarot/22.jpeg",
       "jujutsu-kaisen": ""
     },
     "upright": {
