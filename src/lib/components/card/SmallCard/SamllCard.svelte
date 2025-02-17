@@ -1,6 +1,6 @@
 <script lang="ts">
-	import BackCard from './elements/Back.svelte';
-	import FrontCard from './elements/Front.svelte';
+	import BackCard from '../elements/Back.svelte';
+	import FrontCard from '../elements/Front.svelte';
 
 	interface IProps {
 		id?: number;

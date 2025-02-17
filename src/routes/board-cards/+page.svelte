@@ -1,9 +1,8 @@
 <script lang="ts">
-	import Card from '$lib/components/card/Card.svelte';
-	import Rotate from '../../lib/components/animations/rotation.svelte';
+	import SmallCard from '$lib/components/card/SmallCard/SamllCard.svelte';
+	import Rotate from '../../lib/components/animations/svelte-motion/rotation.svelte';
 	import { goto } from '$app/navigation';
-	import { fade } from 'svelte/transition'; // Importa transição nativa
-
+	import { fade } from 'svelte/transition';
 
 	const numberOfCards = Array.from({ length: 22 }, (_, i) => i + 1);
 	let showCard: boolean[] = $state(Array(22).fill(true));
@@ -12,10 +11,10 @@
 	const handleVisibleCard = (index: number) => {
 		showCard[index] = false;
 
-		console.log(showCard[index])
+		console.log(showCard[index]);
 
 		numberOfCardsSelected += 1;
-		if(numberOfCardsSelected >= 3) {
+		if (numberOfCardsSelected >= 3) {
 			goto('/result');
 		}
 	};
@@ -29,9 +28,9 @@
 					<button
 						onclick={() => handleVisibleCard(index)}
 						class="flex justify-center items-center m-1 p-1 w-[60%] h-full transition animate-shake duration-300 cursor-pointer transform"
-						transition:fade
+						transition:fade={{ duration: 500 }}
 					>
-						<Card id={22} showBackCard />
+						<SmallCard id={22} showBackCard />
 					</button>
 				{/if}
 			</Rotate>
