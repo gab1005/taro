@@ -1,0 +1,529 @@
+[
+  {
+    "id": 1,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Magician",
+      "time": {
+        "past": "A moment of great potential where skills and resources aligned for success.",
+        "present": "Take action with confidence; you have the tools needed to manifest your goals.",
+        "future": "Opportunities will arise, but your success depends on how you use your abilities."
+      }
+    },
+    "reversed": {
+      "title": "The Magician Reversed",
+      "time": {
+        "past": "A time when deception or lack of preparation hindered progress.",
+        "present": "Beware of manipulation or missed opportunities due to self-doubt.",
+        "future": "A need to reassess your plans; dishonesty or confusion may create obstacles."
+      }
+    }
+  },
+
+  {
+    "id": 2,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The High Priestess",
+      "time": {
+        "past": "A period of deep intuition or hidden knowledge influencing your past choices.",
+        "present": "Trust your instincts; a revelation or deeper understanding is near.",
+        "future": "Mysteries will unfold in time; be patient and open to inner wisdom."
+      }
+    },
+    "reversed": {
+      "title": "The High Priestess Reversed",
+      "time": {
+        "past": "A time of ignoring intuition or being misled by confusion.",
+        "present": "Secrets may be revealed, or you may struggle with self-doubt and uncertainty.",
+        "future": "A lack of clarity may hinder progress; focus on uncovering the truth."
+      }
+    }
+  },
+
+  {
+    "id": 3,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Empress",
+      "time": {
+        "past": "A period of growth, creativity, or nurturing that shaped your current situation.",
+        "present": "Embrace abundance and care for yourself and others; something is flourishing.",
+        "future": "Prosperity and fulfillment await; nurture your goals with patience and love."
+      }
+    },
+    "reversed": {
+      "title": "The Empress Reversed",
+      "time": {
+        "past": "A time of neglect, creative block, or lack of self-care that influenced your path.",
+        "present": "You may feel disconnected from abundance or struggling with self-worth.",
+        "future": "Potential stagnation or imbalance; focus on restoring harmony in your life."
+      }
+    }
+  },
+
+  {
+    "id": 4,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Emperor",
+      "time": {
+        "past": "A time of stability, structure, or discipline that created a strong foundation.",
+        "present": "Step into a leadership role; organization and control will bring success.",
+        "future": "Long-term stability is within reach; maintain order and strategic planning."
+      }
+    },
+    "reversed": {
+      "title": "The Emperor Reversed",
+      "time": {
+        "past": "A period of rigid control or instability that affected your progress.",
+        "present": "Struggles with authority, discipline, or lack of structure may be present.",
+        "future": "Disorganization or power struggles could arise; focus on regaining balance."
+      }
+    }
+  },
+
+  {
+    "id": 5,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Hierophant",
+      "time": {
+        "past": "A period of tradition, learning, or spiritual guidance that influenced your path.",
+        "present": "Seek wisdom from established sources; structure and guidance are important now.",
+        "future": "A mentor or structured path will bring clarity; embrace learning and growth."
+      }
+    },
+    "reversed": {
+      "title": "The Hierophant Reversed",
+      "time": {
+        "past": "A time of questioning tradition or breaking away from conventional beliefs.",
+        "present": "You may be resisting authority or seeking a unique path outside the norm.",
+        "future": "A need to challenge outdated ideas or create your own set of principles."
+      }
+    }
+  },
+
+  {
+    "id": 6,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Lovers",
+      "time": {
+        "past": "A significant relationship or choice shaped your path and personal growth.",
+        "present": "A deep connection or an important decision is influencing your life now.",
+        "future": "A major choice regarding love or values will present itself; choose wisely."
+      }
+    },
+    "reversed": {
+      "title": "The Lovers Reversed",
+      "time": {
+        "past": "A period of disharmony, misalignment, or a difficult choice in relationships.",
+        "present": "Confusion or imbalance in a relationship or personal values may be present.",
+        "future": "A challenging decision or relationship issue may arise; seek clarity."
+      }
+    }
+  },
+
+  {
+    "id": 7,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Chariot",
+      "time": {
+        "past": "A time of determination and focused effort led to progress and success.",
+        "present": "You are in control; discipline and perseverance will drive you forward.",
+        "future": "Victory is ahead, but you must maintain focus and overcome obstacles."
+      }
+    },
+    "reversed": {
+      "title": "The Chariot Reversed",
+      "time": {
+        "past": "A period of lack of direction or lost control impacted your journey.",
+        "present": "You may feel stuck or uncertain; reassess your goals and regain focus.",
+        "future": "Challenges in maintaining control or direction may arise; find inner balance."
+      }
+    }
+  },
+
+  {
+    "id": 8,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Strength",
+      "time": {
+        "past": "A moment of inner courage and patience helped you overcome difficulties.",
+        "present": "You have the strength to endure; trust in your resilience and compassion.",
+        "future": "A test of your patience and inner fortitude will come; remain steady."
+      }
+    },
+    "reversed": {
+      "title": "The Strength Reversed",
+      "time": {
+        "past": "A time of self-doubt or fear may have prevented you from taking action.",
+        "present": "You might be struggling with confidence or inner strength; be gentle with yourself.",
+        "future": "A challenge may test your courage; focus on rebuilding confidence."
+      }
+    }
+  },
+
+  {
+    "id": 9,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Hermit",
+      "time": {
+        "past": "A period of introspection or solitude helped you find clarity and wisdom.",
+        "present": "Step back and reflect; inner guidance will lead you in the right direction.",
+        "future": "A time of self-discovery and deep insight lies ahead; embrace the journey within."
+      }
+    },
+    "reversed": {
+      "title": "The Hermit Reversed",
+      "time": {
+        "past": "A period of isolation or avoidance may have caused confusion or stagnation.",
+        "present": "You may be withdrawing too much or feeling lost without direction.",
+        "future": "Loneliness or resistance to self-reflection could create difficulties; seek balance."
+      }
+    }
+  },
+
+  {
+    "id": 10,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Wheel of Fortune",
+      "time": {
+        "past": "A turning point or unexpected change set you on a new path.",
+        "present": "Fate is at work; embrace the ups and downs with an open mind.",
+        "future": "A shift in circumstances will bring new opportunities; trust the process."
+      }
+    },
+    "reversed": {
+      "title": "The Wheel of Fortune Reversed",
+      "time": {
+        "past": "A period of bad luck or resistance to change hindered your progress.",
+        "present": "You may feel stuck or out of control; adapt to the situation.",
+        "future": "Unexpected setbacks may arise; patience and resilience will be key."
+      }
+    }
+  },
+
+  {
+    "id": 11,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Justice",
+      "time": {
+        "past": "A decision based on truth and fairness shaped your current situation.",
+        "present": "Balance and accountability are necessary; seek clarity and honesty.",
+        "future": "The consequences of past actions will unfold; justice will be served."
+      }
+    },
+    "reversed": {
+      "title": "The Justice Reversed",
+      "time": {
+        "past": "A time of dishonesty or unfair treatment may have influenced your path.",
+        "present": "You may be avoiding responsibility or struggling with a lack of clarity.",
+        "future": "A hidden truth may surface; be prepared to face the consequences."
+      }
+    }
+  },
+
+  {
+    "id": 12,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Hanged Man",
+      "time": {
+        "past": "A period of surrender or shifting perspective led to growth and insight.",
+        "present": "Let go and embrace a new way of seeing things; patience is needed.",
+        "future": "A necessary pause or sacrifice will bring a deeper understanding."
+      }
+    },
+    "reversed": {
+      "title": "The Hanged Man Reversed",
+      "time": {
+        "past": "Resistance to change or fear of letting go may have caused stagnation.",
+        "present": "You may feel stuck or unable to see a new perspective; reassess your approach.",
+        "future": "Delays or an unwillingness to change may create challenges ahead."
+      }
+    }
+  },
+
+  {
+    "id": 13,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Death",
+      "time": {
+        "past": "An ending or major transformation set you on a new path.",
+        "present": "Embrace change; a significant transition is taking place in your life.",
+        "future": "A powerful transformation will occur; let go of the old to welcome the new."
+      }
+    },
+    "reversed": {
+      "title": "The Death Reversed",
+      "time": {
+        "past": "Resistance to change may have prolonged a difficult situation.",
+        "present": "You may be struggling with letting go; transformation is necessary.",
+        "future": "Holding onto the past could delay growth; embrace the inevitable change."
+      }
+    }
+  },
+
+  {
+    "id": 14,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Temperance",
+      "time": {
+        "past": "A period of balance and patience allowed you to grow steadily.",
+        "present": "Harmony and moderation are key; find the middle ground in your actions.",
+        "future": "A situation will require patience and careful blending of different elements."
+      }
+    },
+    "reversed": {
+      "title": "The Temperance Reversed",
+      "time": {
+        "past": "A time of excess or imbalance may have caused setbacks.",
+        "present": "You may be struggling with instability; seek moderation and control.",
+        "future": "Lack of harmony could lead to stress; focus on restoring balance."
+      }
+    }
+  },
+
+  {
+    "id": 15,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Devil",
+      "time": {
+        "past": "A period of temptation, addiction, or unhealthy patterns influenced your path.",
+        "present": "You may feel trapped by a negative cycle; awareness is the first step to freedom.",
+        "future": "A challenge regarding control or material attachments may arise; be mindful."
+      }
+    },
+    "reversed": {
+      "title": "The Devil Reversed",
+      "time": {
+        "past": "Breaking free from limitations or toxic influences led to personal growth.",
+        "present": "You are overcoming fears or regaining control over a situation.",
+        "future": "Liberation from restrictions is ahead; embrace change and self-empowerment."
+      }
+    }
+  },
+
+  {
+    "id": 16,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Tower",
+      "time": {
+        "past": "A sudden upheaval or unexpected event drastically changed your course.",
+        "present": "A major transformation is occurring; embrace the breakdown to rebuild stronger.",
+        "future": "A dramatic shift or revelation is coming; prepare to adapt and grow."
+      }
+    },
+    "reversed": {
+      "title": "The Tower Reversed",
+      "time": {
+        "past": "You may have resisted change, delaying necessary transformation.",
+        "present": "Avoidance of a crisis may only prolong the inevitable; face the truth.",
+        "future": "If you continue to hold on, the impact of change may be even greater."
+      }
+    }
+  },
+
+  {
+    "id": 17,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Star",
+      "time": {
+        "past": "A moment of inspiration, healing, or renewed hope shaped your journey.",
+        "present": "Stay optimistic; renewal and guidance are leading you in the right direction.",
+        "future": "Hope and spiritual clarity will light your path forward."
+      }
+    },
+    "reversed": {
+      "title": "The Star Reversed",
+      "time": {
+        "past": "A loss of faith or disillusionment may have caused uncertainty.",
+        "present": "You might be feeling discouraged or disconnected from your purpose.",
+        "future": "Reconnecting with hope and inner strength will be necessary for progress."
+      }
+    }
+  },
+
+  {
+    "id": 18,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Moon",
+      "time": {
+        "past": "A period of confusion, illusion, or uncertainty influenced your path.",
+        "present": "Trust your intuition; things may not be as they seem.",
+        "future": "Mysteries will unfold, and clarity will come with time."
+      }
+    },
+    "reversed": {
+      "title": "The Moon Reversed",
+      "time": {
+        "past": "A time of deception or fear may have clouded your judgment.",
+        "present": "You are gaining clarity and overcoming illusions.",
+        "future": "Hidden truths will be revealed; trust in the process."
+      }
+    }
+  },
+
+  {
+    "id": 19,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Sun",
+      "time": {
+        "past": "A time of joy, success, or clarity brought warmth and positivity.",
+        "present": "Happiness and success are within reach; embrace the light.",
+        "future": "A bright and fulfilling outcome is ahead; enjoy the journey."
+      }
+    },
+    "reversed": {
+      "title": "The Sun Reversed",
+      "time": {
+        "past": "A period of disappointment or blocked happiness may have affected you.",
+        "present": "You may be struggling to see the positives; focus on gratitude.",
+        "future": "Joy is coming, but you may need to remove doubts or negativity first."
+      }
+    }
+  },
+
+  {
+    "id": 20,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Judgement",
+      "time": {
+        "past": "A significant awakening or realization changed your direction.",
+        "present": "Self-reflection and accountability are necessary for growth.",
+        "future": "A moment of reckoning is coming; embrace transformation."
+      }
+    },
+    "reversed": {
+      "title": "The Judgement Reversed",
+      "time": {
+        "past": "A refusal to accept lessons from the past may have caused setbacks.",
+        "present": "You may be avoiding self-reflection or fearing change.",
+        "future": "Delaying personal growth could lead to missed opportunities."
+      }
+    }
+  },
+
+  {
+    "id": 21,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The World",
+      "time": {
+        "past": "A major achievement or completion of a cycle brought fulfillment.",
+        "present": "You are reaching a point of success and wholeness; celebrate your journey.",
+        "future": "A cycle is coming to completion; new opportunities will follow."
+      }
+    },
+    "reversed": {
+      "title": "The World Reversed",
+      "time": {
+        "past": "Unfinished business or delays may have kept you from closure.",
+        "present": "You may feel stuck or unable to complete something important.",
+        "future": "A cycle will only close once you address what’s holding you back."
+      }
+    }
+  },
+
+  {
+    "id": 22,
+    "image": {
+      "basic-image": "",
+      "jujutsu-kaisen": ""
+    },
+    "upright": {
+      "title": "The Fool",
+      "time": {
+        "past": "A leap of faith or a new beginning that set the stage for your current journey.",
+        "present": "Embrace spontaneity and trust the unknown; new opportunities are ahead.",
+        "future": "A fresh start or adventure awaits; be open to taking risks."
+      }
+    },
+    "reversed": {
+      "title": "The Fool Reversed",
+      "time": {
+        "past": "A missed opportunity or a reckless decision that influenced your path.",
+        "present": "Caution is needed; avoid impulsive actions or ignoring consequences.",
+        "future": "Potential for delays or setbacks; rethink your approach before moving forward."
+      }
+    }
+  }
+]
