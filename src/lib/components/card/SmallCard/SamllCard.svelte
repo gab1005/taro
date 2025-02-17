@@ -5,9 +5,11 @@
 	interface IProps {
 		id?: number;
 		showBackCard?: boolean;
+		time?: 'past' | 'present' | 'future';
+		showDescription?: boolean;
 	}
 
-	let { id = 1, showBackCard }: IProps = $props();
+	let { id = 1, showBackCard, time = "past", showDescription }: IProps = $props();
 
 	const idToCard = id > 22 ? 1 : id;
 </script>
@@ -15,5 +17,5 @@
 {#if showBackCard}
 	<BackCard />
 {:else}
-	<FrontCard id={idToCard} />
+	<FrontCard id={idToCard} {time} {showDescription} />
 {/if}

@@ -20,7 +20,7 @@
 	};
 </script>
 
-<main class="gap-2 grid grid-cols-5 bg-tarot-white p-2 md:p-4 h-screen">
+<main class="gap-2 grid grid-cols-5 bg-[#888] p-2 md:p-4 h-screen">
 	{#each numberOfCards as _, index}
 		<div class="flex justify-center items-center">
 			<Rotate>
